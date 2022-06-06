@@ -1,0 +1,26 @@
+
+
+
+body {
+    background-color: #2a16d1;
+    color: #352b48;
+  }
+
+  .container{    
+    background-color: #fcf7ff;
+    border: 5px solid #352b48;
+    
+
+  }
+
+  .weather-info{
+    border: 5px solid #352b48;
+
+  }
+
+img{
+height: 170px;
+width: 170px;
+}
+ 
+ 
